@@ -32,4 +32,6 @@ public class ScooterService {
                 .map(s -> s.replace(",", "."))
                 .collect(Collectors.toList());
     }
+
+    ///test
 }
